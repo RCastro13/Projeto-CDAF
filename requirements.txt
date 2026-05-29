@@ -1,0 +1,13 @@
+mplsoccer
+gandula==1.0.0
+numpy
+orjson
+pandas
+matplotlib
+scikit-learn
+statsmodels
+scipy
+ipykernel
+tqdm
+pyarrow
+plotly
